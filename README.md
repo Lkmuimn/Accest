@@ -9,5 +9,6 @@ html>
 <h1><i>comfortable</i> <mark>don't have ban</mark>></h1>
 <h2>high risk with <b>maximum200k for ban</b></h2>
   
-<a href>https://.me/+zxL8JaqSj4FmZDA0<link></a>
+<href>t.me/+zxL8JaqSj4FmZDA0</href>
 
+ 
