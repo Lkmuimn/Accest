@@ -16,7 +16,7 @@ html>
 
 
     
-<a href="index.Html.1" target="self"> go </a>
+<a href="index.Html" target="self"> go </a>
 
 </body>
 
