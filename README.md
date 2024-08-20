@@ -10,7 +10,7 @@ html>
 <h2>high risk with <b>maximum200k for ban</b></h2>
   
 <href>
-https://tlgrm.in/+zxL8JaqSj4FmZDA0
+tlgrm.in/+zxL8JaqSj4FmZDA0
 
 </href>
  
