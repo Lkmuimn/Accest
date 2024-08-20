@@ -9,14 +9,14 @@ html>
 <h1><i>comfortable</i> <mark>don't have ban</mark>></h1>
 <h2>high risk with <b>maximum200k for ban</b></h2>
   
-<a href>https://t.me/+zxL8JaqSj4FmZDA0</a>
+<a href>t.me/+zxL8JaqSj4FmZDA0</a>
 
 
   <body>margin=right
 
 
     
-<a href="index.Html" target="self"> go </a>
+<a href="index.Html" target="blank"> go </a>
 
 </body>
 
