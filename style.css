@@ -11,12 +11,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #dde5f4;
+  background-image: "Picsart_24-08-22_22-34-52-064.png";
   height: 100vh;
 }
 
 .screen-1 {
-  background: #f1f7fe;
+  background: Picsart_24-08-22_22-34-52-064.png;
   padding: 2em;
   display: flex;
   flex-direction: column;
